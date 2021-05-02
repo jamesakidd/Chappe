@@ -1,0 +1,21 @@
+{
+  "name": "casestudy2",
+  "version": "1.0.0",
+  "description": "Case Study 2 for INFO 3139",
+  "main": "app.js",
+  "author": "James Kidd",
+  "license": "ISC",
+  "engines": {
+    "node": "12.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
